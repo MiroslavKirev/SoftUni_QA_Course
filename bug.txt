@@ -1,0 +1,3 @@
+Negative price accepted by system.
+Expected: error message
+Actual: total = -50
